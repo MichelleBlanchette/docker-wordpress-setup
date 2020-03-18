@@ -69,6 +69,9 @@ Here's another example that I have built with:
 image: wordpress:4.9.1-php5.6-apache
 ```
 
-To find WordPress versions, go here: https://wordpress.org/download/releases/
+### Useful Links
 
-For PHP versions, go here: https://www.php.net/releases/
+Here are some links you might find useful when determining what versions to test:
+* [WordPress Releases](https://wordpress.org/download/releases/)
+* [WordPress System Statistics](https://wordpress.org/about/stats/)
+* [PHP Releases](https://www.php.net/releases/)
